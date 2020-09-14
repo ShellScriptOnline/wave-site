@@ -1,0 +1,101 @@
+.script1 {
+position: relative;
+left:460px;
+top:100px;
+
+    transition: 0.5s;
+	filter: blur(2px);
+ }
+ 
+ .script1:hover {
+    filter: blur(0px);
+    transform: scale(1.03);
+ }
+ 
+ 
+ 
+ 
+ .script2 {
+position: relative;
+left:480px;
+top:100px;
+height:450px;
+width:320px;
+
+    transition: 0.5s;
+	filter: blur(2px);
+ }
+ 
+ .script2:hover {
+    filter: blur(0px);
+    transform: scale(1.03);
+ }
+ 
+ 
+ 
+ 
+ .script3 {
+position: relative;
+left:500px;
+top:100px;
+
+    transition: 0.5s;
+	filter: blur(2px);
+ }
+ 
+ .script3:hover {
+    filter: blur(0px);
+    transform: scale(1.03);
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ .pod-css1 {
+position: relative;
+left:-470px;
+top:160px;
+
+transition: 0.5s;
+ }
+ 
+ .pod-css1:hover {
+transform: scale(1.03);
+ }
+ 
+ 
+  .pod-css2 {
+position: relative;
+left:-440px;
+top:160px;
+
+transition: 0.5s;
+ }
+ 
+ .pod-css2:hover {
+transform: scale(1.03);
+ }
+ 
+ 
+   .pod-css3 {
+position: relative;
+left:-410px;
+top:160px;
+
+transition: 0.5s;
+ }
+ 
+ .pod-css3:hover {
+transform: scale(1.03);
+ }
